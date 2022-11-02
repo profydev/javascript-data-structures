@@ -23,7 +23,6 @@ const menuItems = [
         text: "Menu 3 1",
         children: [
           {
-            id: "311",
             text: "Menu 3 1 1",
             href: "#311",
           },
