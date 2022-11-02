@@ -10,7 +10,8 @@
   ],
   "rules": {
     "react/prop-types": 0,
-    "react/react-in-jsx-scope": 0
+    "react/react-in-jsx-scope": 0,
+    "no-case-declarations": 0
   },
   "plugins": ["react"]
 }
